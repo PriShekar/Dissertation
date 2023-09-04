@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654822106692",
+    "project_id": "alzaware-1",
+    "storage_bucket": "alzaware-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654822106692:android:561b495198294f25a47e11",
+        "android_client_info": {
+          "package_name": "com.impeccablecreations.alzaware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654822106692-h5of9o3apcgi67pnhfa8e9cs9mscmvn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.impeccablecreations.alzaware",
+            "certificate_hash": "dbdf9157582a483aa18a3c627cdcbca475e50439"
+          }
+        },
+        {
+          "client_id": "654822106692-ksae2eavdpstji6gh3ec9066kgh69ehv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnySLT9K907nSm6OLEvmuykVeOouIQmNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654822106692-ksae2eavdpstji6gh3ec9066kgh69ehv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
